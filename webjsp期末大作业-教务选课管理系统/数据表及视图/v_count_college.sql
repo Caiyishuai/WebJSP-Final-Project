@@ -1,0 +1,9 @@
+INSERT INTO `v_count_college` VALUES ('人文学院', 6);
+INSERT INTO `v_count_college` VALUES ('会计学院', 5);
+INSERT INTO `v_count_college` VALUES ('信息管理与工程学院', 33);
+INSERT INTO `v_count_college` VALUES ('公共管理学院', 12);
+INSERT INTO `v_count_college` VALUES ('外国语学院', 9);
+INSERT INTO `v_count_college` VALUES ('工商管理学院', 15);
+INSERT INTO `v_count_college` VALUES ('数据科学学院', 20);
+INSERT INTO `v_count_college` VALUES ('经济学院', 17);
+INSERT INTO `v_count_college` VALUES ('金融学院', 8);

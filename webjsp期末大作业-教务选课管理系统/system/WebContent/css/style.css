@@ -1,0 +1,65 @@
+@charset "UTF-8";
+.layout{margin:auto;}
+.left{float:left;}
+.right{float:right}
+#info{background:#eee; border-bottom:solid 1px #ccc; height:40px;}
+#info div{margin:auto; width:1000px; height:35px;}
+#info span{display:inline-block; line-height:35px;}
+#top{width:1000px; font-size:0}
+#nav{width:1000px; height:40px; font-size:0}
+#nav a{width:125px; display:inline-block; height:40px;
+background-color:#ffff00; color:#fff; text-decoration:none;
+font-size:16px; line-height:40px; text-align:center;}
+
+#main{width:1000px; height:800px;}
+#nav a:hover{color:#009; background-color:#0ff;}
+
+#foot{width:1000px; height:50px; background-color:#009;
+color:#fff; font-size:14px; text-align:center;
+line-height:50px;}
+	
+#nav a.cur{background-color:#00db00;}
+#nav a.cur:hover{color:#00ffff;}
+#info{color:#f00; font-weight:bold;}
+.middle{
+	margin:0 auto;
+}
+
+/*以下是表格样式*/
+table.t1{
+	/*上    左*/
+	/*margin:10 0 0 20;*/
+	font-size:18px;
+    border:5px solid #cad9ea;
+    color:#666;
+    background-color:#ffffff;
+    margin:0 auto;
+}
+
+/*这个是借鉴一个论坛的样式*/
+table.t1 td,table.t1 th{
+	height:40px;
+    border:1px solid #cad9ea;
+    display:table-cell;
+    vertical-align:middle;
+}
+table.t1 td{
+	padding-top:1;
+	text-align:center;
+	
+}
+table.t1 tr.a1{
+    background-color:#f5fafe;
+}
+table.t1 th{
+	background-color:#00BFFF;
+	color:#ffffff;
+}
+#content{
+	width:1500px;
+	float:left;
+}
+
+
+
+
